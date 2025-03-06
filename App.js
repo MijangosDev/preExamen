@@ -11,7 +11,7 @@ export default function App() {
     <NavigationContainer>
       <Stack.Navigator screenOptions={{ headerShown: false }}>
         <Stack.Screen name="Playlist" component={MyMusic} />
-        <Stack.Screen name="Player" component={Song} />
+        <Stack.Screen name="Player" component={Song} />     
       </Stack.Navigator>
     </NavigationContainer>
   );
