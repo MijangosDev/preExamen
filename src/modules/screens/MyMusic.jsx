@@ -78,7 +78,7 @@ export default function PlaylistScreen() {
   );
 }
 
-// 🎨 Estilos
+// Estilos
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: "#121212" },
 
